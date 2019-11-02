@@ -1,0 +1,24 @@
+{
+  "name": "userranking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tokutatsu/UserRanking.git"
+  },
+  "author": "tokutatsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tokutatsu/UserRanking/issues"
+  },
+  "homepage": "https://github.com/tokutatsu/UserRanking#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^5.21.2",
+    "sqlite3": "^4.1.0"
+  }
+}
