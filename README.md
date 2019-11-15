@@ -40,5 +40,5 @@ $ node app.js
 
 ##### Linux
 ```
-$ NODE_ENV=production node myapp/app.js
+$ NODE_ENV=production node app.js
 ```
